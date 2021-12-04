@@ -34,7 +34,7 @@ html{
     padding: 9px 5px;
     text-decoration: none;
     color: white;
-    margin: 4px;
+    margin: 0px;
 }
 .navbar ul li a:hover{
     border-bottom: 2px solid yellow;
